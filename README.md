@@ -1,232 +1,246 @@
-<div align="center">
+Muhammad Zain-ul-Abideen
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=180&section=header&text=Muhammad%20Zain-ul-Abideen&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20React%20Native&descAlignY=58&descSize=16&animation=fadeIn" />
+Full-Stack Developer | MERN | React Native
 
-</div>
 
-<div align="center">
 
+
+<p align="center">
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&duration=3000&pause=800&color=7F77DD&center=true&vCenter=true&width=620&lines=Hey%2C+I%E2%80%99m+Zain+%F0%9F%91%8B;MERN+Stack+Developer;React+Native+Builder;I+Ship+Real+Products+%F0%9F%9A%80;Open+to+Work+%E2%80%94+Let%E2%80%99s+build+something+great" alt="Typing animation" />
-</a>
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&duration=3000&pause=800&color=7F77DD&center=true&vCenter=true&width=620&lines=Hello%2C+I%E2%80%99m+Zain;MERN+Stack+Developer;React+Native+Builder;I+Ship+Real+Products;Open+to+Work+%E2%80%94+Let%E2%80%99s+build+something+great" alt="Typing animation" />
+  </a>
+</p> <p align="center">
+  <img src="https://img.shields.io/badge/Professional_Full--Stack_Developer-7F77DD?style=for-the-badge&labelColor=1a1a2e&color=7F77DD" alt="Professional Full-Stack Developer Badge"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/FAST--NUCES_CS_Grad-1D9E75?style=for-the-badge&labelColor=1a1a2e&color=1D9E75" alt="FAST-NUCES CS Grad Badge"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open_to_Work-D85A30?style=for-the-badge&labelColor=1a1a2e&color=D85A30" alt="Open to Work Badge"/>
+</p> <p align="center">
+  <a href="mailto:dev.mzainulabideen@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-dev.mzainulabideen%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/muhammad-zain-ul-abideen-4734823b1">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Islamabad%2C_Pakistan-555?style=flat-square" alt="Location Badge"/>
+</p>
 
-</div>
 
-<br>
 
-<div align="center">
 
-![Junior Full-Stack Developer](https://img.shields.io/badge/%F0%9F%92%BC_Junior_Full--Stack_Developer-7F77DD?style=for-the-badge&labelColor=1a1a2e&color=7F77DD)
-&nbsp;
-![FAST-NUCES](https://img.shields.io/badge/%F0%9F%8E%93_FAST--NUCES_CS_Grad-1D9E75?style=for-the-badge&labelColor=1a1a2e&color=1D9E75)
-&nbsp;
-![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2_Open_to_Work-D85A30?style=for-the-badge&labelColor=1a1a2e&color=D85A30)
+About Me
 
-</div>
 
-<div align="center">
+A Computer Science graduate from FAST-NUCES, I specialize in building robust web and mobile applications that deliver tangible real-world impact. My expertise lies in transforming complex requirements into functional, scalable, and user-centric products.
 
-[![Email](https://img.shields.io/badge/Gmail-dev.mzainulabideen%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dev.mzainulabideen@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-&nbsp;
-![Location](https://img.shields.io/badge/📍_Islamabad-Pakistan-555?style=flat-square)
+•
+Current Focus: Actively developing full-stack platforms using the MERN stack and crafting cross-platform mobile applications with React Native.
 
-</div>
+•
+Key Achievement: Successfully deployed an on-device Machine Learning model, achieving 85% accuracy with an impressive ~15 ms inference time.
 
----
+•
+Recognition: Awarded 3rd Place in the National Startup Challenge for innovative project development.
 
-## 🧑‍💻 About Me
+•
+Continuous Learning: Currently expanding my knowledge in TypeScript, advanced system design principles, and modern DevOps practices.
 
-> CS graduate from **FAST-NUCES** · I build web and mobile products that **actually ship** and create real-world impact.
+•
+Availability: Open to full-time opportunities, freelance contracts, and collaborative side projects. Remote-friendly engagements are welcome.
 
-- 🔭 Currently building full-stack platforms with **MERN** and cross-platform mobile apps with **React Native**
-- 🤖 Deployed an on-device ML model achieving **85% accuracy** at **~15 ms** inference
-- 🏆 **3rd Place** — National Startup Challenge
-- 🌱 Always learning: currently deepening expertise in **TypeScript**, **system design**, and **DevOps**
-- 💬 Open to full-time roles, freelance contracts, and meaningful side projects — **remote-friendly**
 
----
 
-## 🛠️ Tech Stack
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+Technical Expertise
 
-### Frontend & Frameworks
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+Languages
 
-### Mobile
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+<p align="center">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
+  <img src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Badge"/>
+</p>
 
-### Database & Auth
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-7F77DD?style=for-the-badge&logo=openid&logoColor=white)
+Frontend & Frameworks
 
-### Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js Badge"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js Badge"/>
+  <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS Badge"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/>
+</p>
 
----
+Mobile Development
 
-## 🚀 Featured Projects
+<p align="center">
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native Badge"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo Badge"/>
+  <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Lite Badge"/>
+</p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Database & Authentication
 
-### 🏠 RentEase — Rental Marketplace
-![Status](https://img.shields.io/badge/Status-Shipped-1D9E75?style=flat-square)
-![Year](https://img.shields.io/badge/Year-2025-7F77DD?style=flat-square)
+<p align="center">
+<img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Badge"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT Badge"/>
+  <img src="https://img.shields.io/badge/OAuth_2.0-7F77DD?style=for-the-badge&logo=openid&logoColor=white" alt="OAuth 2.0 Badge"/>
+</p>
 
-A production-grade MERN rental platform with enterprise-level auth and analytics.
+Tools & Workflow
 
-**Key Highlights:**
-- 📄 **36+ pages** across 6 distinct user role dashboards
-- 🔗 **17+ REST endpoints** with full RBAC implementation
-- 💳 Integrated **payment gateway** with real-time transaction tracking
-- 📊 Live **admin analytics** panel with key business metrics
-- 🔐 **OAuth 2.0** (Google & Facebook) social login
+<p align="center">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code Badge"/>
+</p>
 
-`Node.js` `Express` `MongoDB` `Bootstrap 5` `JWT` `OAuth 2.0`
 
-</td>
-<td width="50%" valign="top">
 
-### 🤟 SignConnect — Sign Language App
-![Status](https://img.shields.io/badge/Status-Shipped-1D9E75?style=flat-square)
-![Year](https://img.shields.io/badge/Year-2025-7F77DD?style=flat-square)
-![FYP](https://img.shields.io/badge/Final_Year_Project-D85A30?style=flat-square)
 
-Cross-platform mobile app for real-time ASL/PSL sign language translation — making communication accessible.
+Featured Projects
 
-**Key Highlights:**
-- 🎯 **85% model accuracy** on real-world test data
-- ⚡ **~15 ms** on-device inference (no internet required)
-- 🤝 Industry partner: **Shaoor Foundation**
-- 📱 Smooth animations via **Reanimated 3**
+RentEase — Rental Marketplace
 
-`React Native` `TypeScript` `Firebase` `TF Lite` `Reanimated`
+<p align="left">
+<img src="https://img.shields.io/badge/Status-Shipped-1D9E75?style=flat-square" alt="Status Shipped Badge"/>
+  <img src="https://img.shields.io/badge/Year-2025-7F77DD?style=flat-square" alt="Year 2025 Badge"/>
+</p>
+A production-grade MERN rental platform engineered with enterprise-level authentication and comprehensive analytics capabilities.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+Key Highlights:
 
-### ⚡ Hitech Sky Energy — Corporate Site
-![Status](https://img.shields.io/badge/Status-Live-1D9E75?style=flat-square)
-![Year](https://img.shields.io/badge/Year-2025-7F77DD?style=flat-square)
+•
+Developed 36+ distinct pages across 6 unique user role dashboards, ensuring a tailored user experience.
 
-Responsive corporate website built for performance, mobile-first, and real-world deployment.
+•
+Implemented 17+ REST endpoints with robust Role-Based Access Control (RBAC ) for secure data management.
 
-**Key Highlights:**
-- 🗺️ **Google Maps API** integration
-- ✅ Real-time **form validation**
-- 🚀 **Lazy loading** for optimal performance
-- 📱 **100% mobile compatible** across all breakpoints
+•
+Integrated a secure payment gateway featuring real-time transaction tracking and reporting.
 
-`HTML5` `CSS3` `JavaScript` `Bootstrap 5` `Maps API`
+•
+Designed and deployed a live admin analytics panel providing critical business metrics and insights.
 
-</td>
-<td width="50%" valign="top">
+•
+Enabled seamless user onboarding through OAuth 2.0 social login integrations (Google & Facebook).
 
-### 💡 More Coming Soon
-![Status](https://img.shields.io/badge/Status-In_Progress-FFCA28?style=flat-square)
+Node.js Express MongoDB Bootstrap 5 JWT OAuth 2.0
 
-Currently working on new projects in the MERN and React Native space.
+SignConnect — Sign Language Application
 
-**Areas of Focus:**
-- 🌐 Scalable SaaS architectures
-- 📲 Cross-platform mobile experiences
-- 🤖 ML-powered mobile features
+<p align="left">
+<img src="https://img.shields.io/badge/Status-Shipped-1D9E75?style=flat-square" alt="Status Shipped Badge"/>
+  <img src="https://img.shields.io/badge/Year-2025-7F77DD?style=flat-square" alt="Year 2025 Badge"/>
+  <img src="https://img.shields.io/badge/Final_Year_Project-D85A30?style=flat-square" alt="Final Year Project Badge"/>
+</p>
+A cross-platform mobile application designed for real-time American Sign Language (ASL ) and Pakistani Sign Language (PSL) translation, significantly enhancing communication accessibility.
 
-_Stay tuned — watch this repo for updates._
+Key Highlights:
 
-</td>
-</tr>
-</table>
+•
+Achieved 85% model accuracy on diverse real-world test datasets, demonstrating high reliability.
 
----
+•
+Optimized for ~15 ms on-device inference, ensuring rapid translation without internet dependency.
 
-## 📊 GitHub Stats
+•
+Collaborated with industry partner Shaoor Foundation to address real-world communication challenges.
 
-<div align="center">
+•
+Incorporated smooth and responsive animations using Reanimated 3 for an enhanced user experience.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=1D9E75&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-&nbsp;&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&text_color=c9d1d9&langs_count=8" />
+React Native TypeScript Firebase TF Lite Reanimated
 
-</div>
+Hitech Sky Energy — Corporate Website
 
-<div align="center">
+<p align="left">
+<img src="https://img.shields.io/badge/Status-Live-1D9E75?style=flat-square" alt="Status Live Badge"/>
+  <img src="https://img.shields.io/badge/Year-2025-7F77DD?style=flat-square" alt="Year 2025 Badge"/>
+</p>
+A responsive corporate website meticulously built for optimal performance, mobile-first compatibility, and seamless real-world deployment.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=7F77DD&fire=D85A30&currStreakLabel=1D9E75" />
+Key Highlights:
 
-</div>
+•
+Integrated Google Maps API for interactive location services and enhanced user engagement.
 
-<div align="center">
+•
+Implemented real-time form validation to ensure data integrity and improve user input experience.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=7F77DD&line=1D9E75&point=D85A30&area=true&hide_border=true" />
+•
+Utilized lazy loading techniques to achieve superior performance and faster page load times.
 
-</div>
+•
+Ensured 100% mobile compatibility across all breakpoints, providing a consistent experience on any device.
 
----
+HTML5 CSS3 JavaScript Bootstrap 5 Maps API
 
-## 🏆 Achievements
+More Coming Soon
 
-<div align="center">
+<p align="left">
+<img src="https://img.shields.io/badge/Status-In_Progress-FFCA28?style=flat-square" alt="Status In Progress Badge"/>
+</p>
+Actively engaged in developing new projects within the MERN stack and React Native ecosystems.
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
+Areas of Focus:
 
-</div>
+•
+Designing and implementing scalable SaaS architectures.
 
----
+•
+Crafting intuitive cross-platform mobile experiences.
 
-## 📈 By the Numbers
+•
+Integrating advanced ML-powered features into mobile applications.
 
-<div align="center">
+Stay tuned for updates by watching this repository.
 
-| 🚀 Shipped Apps | 🤖 ML Accuracy | 🏆 Startup Challenge | 🔗 REST Endpoints Built | 👤 User Roles Engineered |
-|:-:|:-:|:-:|:-:|:-:|
-| **3+** | **85%** | **3rd Place 🥉** | **17+** | **6** |
 
-</div>
 
----
 
-## 🤝 Let's Connect
+Impact by the Numbers
 
-<div align="center">
+Shipped Applications
+ML Model Accuracy
+Startup Challenge Rank
+REST Endpoints Built
+User Roles Engineered
+3+
+85%
+3rd Place
+17+
+6
 
-[![Email](https://img.shields.io/badge/Gmail-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.mzainulabideen@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
 
-<br>
 
-**Open to:** Full-time roles &nbsp;·&nbsp; Freelance contracts &nbsp;·&nbsp; Remote work &nbsp;·&nbsp; Interesting side projects
 
-</div>
 
----
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=100&section=footer&animation=fadeIn" />
+Let's Connect
 
-<sub>⭐ If you found this profile interesting, consider starring one of my repos!</sub>
+<p align="center">
+<a href="mailto:dev.mzainulabideen@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/muhammad-zain-ul-abideen-4734823b1">
+    <img src="https://img.shields.io/badge/LinkedIn-Let%27s_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p> <p align="center">
+  **Open to:** Full-time roles &nbsp;·&nbsp; Freelance contracts &nbsp;·&nbsp; Remote work &nbsp;·&nbsp; Interesting side projects
+</p>
 
-</div>
+
+
+
+<p align="center">
+<sub>If you found this profile interesting, consider starring one of my repositories!</sub>
+</p>
+
