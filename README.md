@@ -1,3 +1,13 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=28&duration=3000&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Muhammad+Zain-ul-Abideen+👋;MERN+Stack+Developer;React+Native+Builder;I+Ship+Real+Projects+🚀" />
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Junior%20Full%20Stack%20Developer-7F77DD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Islamabad-Pakistan-1D9E75?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-D85A30?style=for-the-badge" />
+</p>
+
 # hi, i'm muhammad zain-ul-abideen 👋
 
 > `junior full-stack developer` · islamabad, pk · open to work
