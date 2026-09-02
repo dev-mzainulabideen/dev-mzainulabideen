@@ -348,9 +348,7 @@ Army Public School & College, Sargodha Cantt. — FBISE, Islamabad · 2018<br/>
 
 <sub>📄 Evidence / Certificates available on request</sub>
 
-**Leadership**
-- **House Captain**, Army Public School & College — led and coordinated students during school activities, events, and house-level competitions.
-- **Class Representative**, APSACS — represented students and facilitated communication between students and faculty.
+
 
 **Languages:** English (Professional Working Proficiency) · Urdu (Fluent)
 
