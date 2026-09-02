@@ -6,6 +6,16 @@
 
 <img src="./assets/zain-build-signature.gif" alt="Animated frontend engineering status" width="82%">
 
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20&height=4&section=header&animation=fadeIn" width="100%">
+
+<br>
+
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&duration=2600&pause=900&color=7F77DD&center=true&vCenter=true&width=680&lines=Frontend+Developer+%E2%80%94+React.js+%2F+Next.js;Pixel-Accurate%2C+Figma-to-Web+Interfaces;MERN+%2B+React+Native+%2B+On-Device+ML;Currently+Building+%40+Quecko+Inc.;Open+to+Work+%E2%80%94+Let's+build+something+great" alt="Typing SVG">
+</a>
+
 <br><br>
 
 <a href="https://github.com/dev-mzainulabideen">
@@ -17,6 +27,7 @@
 <a href="mailto:dev.mzainulabideen@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-0B1020?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email">
 </a>
+<img src="https://komarev.com/ghpvc/?username=dev-mzainulabideen&style=for-the-badge&color=7F77DD&label=PROFILE+VIEWS" alt="Profile views">
 
 </div>
 
@@ -38,7 +49,9 @@ Frontend-focused software developer · React.js · Next.js · TypeScript · Resp
 <a href="#-connect">Connect</a>
 </p>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20&height=3&animation=twinkling" width="60%">
+</div>
 
 ## ✦ About
 
@@ -50,7 +63,9 @@ Beyond the frontend, I have working experience with **MERN, REST APIs, authentic
 
 > **Design precision + reusable engineering + responsive behavior.**
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20&height=3&animation=twinkling" width="60%">
+</div>
 
 ## 🧬 Stack
 
@@ -101,7 +116,9 @@ Beyond the frontend, I have working experience with **MERN, REST APIs, authentic
 
 </details>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20&height=3&animation=twinkling" width="60%">
+</div>
 
 ## 🚀 Experience
 
@@ -139,7 +156,9 @@ Beyond the frontend, I have working experience with **MERN, REST APIs, authentic
 - Prepared examples, templates and implementation guidance
 - Debugged programming/logical issues and mentored students
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20&height=3&animation=twinkling" width="60%">
+</div>
 
 ## 🧩 Featured Work
 
@@ -226,7 +245,9 @@ Responsive 4-page corporate platform with form validation, interactive behavior 
 
 </details>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20&height=3&animation=twinkling" width="60%">
+</div>
 
 ## 🧠 Currently
 
@@ -239,22 +260,42 @@ Responsive 4-page corporate platform with form validation, interactive behavior 
 └──────────────────────────────────────────────────────────────┘
 ```
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20&height=3&animation=twinkling" width="60%">
+</div>
 
 ## 📈 Activity
 
 <div align="center">
 
 <a href="https://github.com/dev-mzainulabideen">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=dev-mzainulabideen&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics">
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=dev-mzainulabideen&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics">
 </a>
 <a href="https://github.com/dev-mzainulabideen">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mzainulabideen&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top languages">
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mzainulabideen&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top languages">
 </a>
+
+<br>
+
+<a href="https://github.com/dev-mzainulabideen">
+<img height="175" src="https://streak-stats.demolab.com?user=dev-mzainulabideen&theme=github-dark-blue&hide_border=true&background=0B1020" alt="GitHub streak stats">
+</a>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=dev-mzainulabideen&theme=darkhub&no-frame=true&column=7&margin-w=6&margin-h=6" alt="GitHub trophies">
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/dev-mzainulabideen/dev-mzainulabideen/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%">
+
+<sub><i>Snake animation renders once the workflow below runs on your profile repo — see setup note at the bottom.</i></sub>
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20&height=3&animation=twinkling" width="60%">
+</div>
 
 ## 🎓 Education · Recognition
 
@@ -285,7 +326,9 @@ Relevant coursework: Web Programming · Database Systems · Software Engineering
 
 **Leadership:** House Captain · Class Representative
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20&height=3&animation=twinkling" width="60%">
+</div>
 
 ## ✦ Strengths
 
@@ -293,7 +336,9 @@ Relevant coursework: Web Programming · Database Systems · Software Engineering
 `Component Architecture` · `Problem Solving` · `Technical Troubleshooting` ·
 `Attention to Detail` · `Team Collaboration` · `Technical Communication` · `Documentation`
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20&height=3&animation=twinkling" width="60%">
+</div>
 
 ## 🌐 Connect
 
@@ -319,12 +364,28 @@ Relevant coursework: Web Programming · Database Systems · Software Engineering
 
 </div>
 
----
+<br>
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=120&section=footer&animation=fadeIn" width="100%">
 
 ### `DESIGN → BUILD → REFACTOR → SHIP`
 
 <sub>Frontend engineering · Responsive interfaces · Component-driven development</sub>
 
 </div>
+
+<br>
+
+<details>
+<summary><sub>⚙️ Optional: enable the live contribution snake</sub></summary>
+<br>
+
+The animated snake in the Activity section needs one small one-time setup on your `dev-mzainulabideen/dev-mzainulabideen` profile repo (this only has to be done once, then it updates itself daily):
+
+1. In that repo, create `.github/workflows/snake.yml` with the contents in the accompanying `snake.yml` file provided alongside this README.
+2. Commit and push — GitHub Actions will generate the animation automatically on an `output` branch.
+3. The `<img>` tag already in this README points to that generated file, so once the action runs once, it will appear with no further edits needed.
+
+If you'd rather not set this up, simply delete the snake `<img>` block above and its caption.
+</details>
