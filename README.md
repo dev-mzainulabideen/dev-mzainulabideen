@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/zain-premium-hero.gif" alt="Animated hand-drawn portrait and developer introduction" width="100%">
+<img src="./assets/zain-premium-hero-v2.gif" alt="Animated hand-drawn portrait and developer introduction" width="100%">
 
 <br>
 
-<img src="./assets/engineering-status.gif" alt="Animated frontend engineering status" width="82%">
+<img src="./assets/zain-build-signature.gif" alt="Animated frontend engineering status" width="82%">
 
 <br><br>
 
