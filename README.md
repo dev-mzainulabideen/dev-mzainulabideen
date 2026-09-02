@@ -34,6 +34,7 @@ Frontend-focused software developer · React.js · Next.js · TypeScript · Resp
 <a href="#-experience">Experience</a> ·
 <a href="#-featured-work">Work</a> ·
 <a href="#-activity">Activity</a> ·
+<a href="#-education--recognition">Education</a> ·
 <a href="#-connect">Connect</a>
 </p>
 
@@ -262,9 +263,25 @@ Islamabad, Pakistan · **Fall 2025**
 
 Relevant coursework: Web Programming · Database Systems · Software Engineering · DSA · OOP · Cloud Computing · AI · Generative AI · UX Engineering · Technopreneurship · Market Management
 
-### 🏆 FAST Startup Challenge 2024 — 3rd Position
+<details>
+<summary><b>Higher Secondary & Secondary Certificates</b></summary>
 
-Contributed to **SmartMeter360**, a proposed smart-home energy-management solution using smart sensors and a mobile application for consumption management, budgeting and energy-efficiency awareness.
+<br>
+
+| Certificate | Institution | Year | Result |
+|---|---|---|---|
+| HSSC — Pre-Engineering | Army Public School & College, Sargodha Cantt. (FBISE) | 2020 | 945/1100 · 86% |
+| SSC — Science | Army Public School & College, Sargodha Cantt. (FBISE) | 2018 | 1036/1100 · 94% |
+
+</details>
+
+### 📜 Certifications
+- Responsive Web Design & JavaScript Algorithms — freeCodeCamp, 2024
+- React.js — Udemy, 2025
+
+### 🏆 FAST Startup Challenge 2024
+- **3rd Position** — contributed to **SmartMeter360**, a proposed smart-home energy-management solution using smart sensors and a mobile app for consumption management, budgeting and energy-efficiency awareness.
+- **Team Operations** — supported team coordination and operational execution throughout the competition.
 
 **Leadership:** House Captain · Class Representative
 
